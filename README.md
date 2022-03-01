@@ -39,17 +39,17 @@ PWGAN 是一种基于生成对抗网络的图标转换方法，与现有方法�
 
 ### 文档
 
-模型训练、测试 [tips](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md)
+- 模型训练、测试 [tips](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md)
 
-常见[问题](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/qa.md)
+- 常见[问题](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/qa.md)
 
-自定义数据集的[template](data/template_dataset.py)
+- 自定义数据集的[template](data/template_dataset.py)
 
-自定义模型的[template](models/template_model.py)
+- 自定义模型的[template](models/template_model.py)
 
-代码结构[overview](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/overview.md)
+- 代码结构[overview](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/overview.md)
 
-如何使用自己的数据集[datasets](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/datasets.md)
+- 如何使用自己的数据集[datasets](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/datasets.md)
 
 ### 安装
 
