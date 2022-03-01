@@ -18,7 +18,9 @@
 <div align="center">
 
 PWGAN 是一种基于生成对抗网络的图标转换方法，与现有方法对比，在定量和定性评估中，都达到了目前最好的水准。
+
 本项目是 PWGAN 的 PyTorch 实现。
+
 助力智能图标设计，只需提供转换目标图标集，与输入图标集共同参与无监督训练。利用训练得到的模型，可自动将输入图标集转换为目标图标集的风格，实现智能图标风格迁移。
 
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge)](https://www.python.org)
@@ -38,10 +40,15 @@ PWGAN 是一种基于生成对抗网络的图标转换方法，与现有方法�
 ### 文档
 
 模型训练、测试 [tips](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/tips.md)
+
 常见[问题](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/qa.md)
+
 自定义数据集的[template](data/template_dataset.py)
+
 自定义模型的[template](models/template_model.py)
+
 代码结构[overview](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/overview.md)
+
 如何使用自己的数据集[datasets](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/docs/datasets.md)
 
 ### 安装
